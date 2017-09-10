@@ -1,4 +1,4 @@
-# python-car_park
+# python - car park
 A car park system that designed using python language.
 
   This park contains a single lane that hold up to ten cars. 
